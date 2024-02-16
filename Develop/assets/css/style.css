@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*header class changed to header tag*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-
+/*hero image kept as CSS, but image placed in document flow as display hidden so that alt text can be included*/
 .hero {
     height: 800px;
     width: 100%;
