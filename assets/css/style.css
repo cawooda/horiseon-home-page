@@ -34,8 +34,9 @@ header div {
     font-size: 20px;
 }
 
-nav div ul {
-    
+/*nav introduced */
+nav ul {
+   line-height: 60px;
     list-style-type: none;
     
 }
